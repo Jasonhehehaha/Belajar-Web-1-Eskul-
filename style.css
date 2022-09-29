@@ -1,0 +1,43 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+}
+.black {
+  color: black;
+  font-weight: bolder;
+  background-color: chartreuse;
+  font-size: 25px;
+}
+.red {
+  color: red;
+  font-weight: bold;
+  background-color: cornsilk;
+}
+.magenta {
+  color: magenta;
+  font-weight: bold;
+  background-color: aliceblue;
+}
+.grey {
+  color: grey;
+  font-weight: bold;
+  background-color: azure;
+}
+h1 {
+  background-color: coral;
+  font-weight: bolder;
+  font-size: 70px;
+  font-family: Cambria;
+  color: yellow;
+}
+#keterangan_singkat {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Courier New;
+}
+.li{
+  text-align: left;
+}
